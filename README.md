@@ -1,6 +1,6 @@
 # Hi, I'm Hamza Akmal Chaudary 👋
 
-### 🎓 MS Artificial Intelligence @ Northeastern University
+### 🎓 MS Artificial Intelligence @ Northeastern University Class of 2026
 **Recipient of the Alfond Scholarship for AI ($25,000)**
 *Focusing on Software Engineering, LLMs as Dialogue Agents, and Algorithmic Design.*
 
