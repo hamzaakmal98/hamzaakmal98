@@ -45,6 +45,9 @@
 #### [SkyLink EMS (AeroNexus)](https://github.com/hamzaakmal98/Aerotrack-Aviation-Manager)
 Enterprise-grade **Java** management system for aviation logistics featuring RBAC security.
 
+#### [F1-Regulink RAG ](https://github.com/hamzaakmal98/F1-ReguLink-Distributed-RAG-Predictive-Analytics-Pipeline)
+Enterprise-grade RAG & MLOps pipeline automating F1 rule analysis & strategy. Built with Airflow, Snowflake, & Pinecone for high-accuracy regulatory intelligence.
+
 ---
 
 ### 🛠️ Technical Ecosystem
