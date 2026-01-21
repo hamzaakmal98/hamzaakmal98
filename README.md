@@ -8,7 +8,7 @@
     * **Alfond Scholarship for AI Recipient ($25,000)**
     * Relevant Coursework: Software Engineering, Databases, LLMs, Algorithms
 * **BS Computer Science & Physics** | Lahore University of Management Sciences (2024)
-    * **Dean's Gold Medal** for Senior Project: Deep Neural Networks in Quantum Mechanics
+    * Thesis: Deep Neural Networks in Quantum Mechanics
 
 ---
 
