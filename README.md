@@ -6,7 +6,7 @@
 
 * **MS Artificial Intelligence** | Northeastern University (Class of 2026)
     * **Alfond Scholarship for AI Recipient ($25,000)**
-    * Relevant Coursework: Software Engineering, Databases, LLMs, Algorithms
+    * Relevant Coursework: Software Engineering, Databases, LLMs as Dialogue Agents, Deep Learning, Natural Language Processing
 * **BS Computer Science & Physics** | Lahore University of Management Sciences (2024)
     * Thesis: Deep Neural Networks in Quantum Mechanics
 
