@@ -70,5 +70,10 @@ Enterprise-grade RAG & MLOps pipeline automating F1 rule analysis & strategy. Bu
 ---
 
 ### 📊 GitHub Insights
-![Stats](https://github-readme-stats.vercel.app/api?username=hamzaakmal98&show_icons=true&theme=radical&v=123)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaakmal98&layout=compact&theme=radical&v=123)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaakmal98&show_icons=true&theme=radical" alt="Hamza's GitHub Stats" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaakmal98&layout=compact&theme=radical" alt="Top Languages" width="400" />
+</div>
+
+<img src="https://github-cards.github.io/card/?user=hamzaakmal98&target=blank" alt="GitHub Card" />
