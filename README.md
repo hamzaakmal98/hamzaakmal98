@@ -25,7 +25,7 @@
 * **Generative AI**: Fine-tuned **Falcon-40b (Genie)** for 15,000+ employees, generating **13 billion tokens** in the first month.
 * **C++ Engineering**: Deployed 4,500+ lines to the Aurora testing framework and optimized Clang 20 bindings.
 
-#### **Amazon Web Services (AWS)** | Machine Learning Engineer (Contract)
+#### **Amazon Web Services (AWS) + University Of Oxford** | Machine Learning Engineer (Contract)
 *Feb 2023 — Sept 2024*
 * **Computer Vision**: Productionized a Geospatial CNN to detect **152,000+ brick kilns** via satellite imagery.
 * **Cloud Infrastructure**: Scaled inference pipelines using **AWS Lambda, S3, and EC2**.
