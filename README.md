@@ -48,6 +48,10 @@ Enterprise-grade **Java** management system for aviation logistics featuring RBA
 #### [F1-Regulink RAG ](https://github.com/hamzaakmal98/F1-ReguLink-Distributed-RAG-Predictive-Analytics-Pipeline)
 Enterprise-grade RAG & MLOps pipeline automating F1 rule analysis & strategy. Built with Airflow, Snowflake, & Pinecone for high-accuracy regulatory intelligence.
 
+#### [CADream – Generate Editable CAD](https://github.com/hamzaakmal98/CADream-Generate-Editable-CAD)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.youtube.com/watch?v=PRCT94Uuncs)
+AI-powered pipeline for generating **editable CAD drawings from DXF inputs**, enabling automated view generation, entity normalization, and reproducible CAD transformations. Focused on bridging legacy CAD formats with modern programmatic workflows.
+
 ---
 
 ### 🛠️ Technical Ecosystem
